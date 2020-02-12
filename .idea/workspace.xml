@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe413a2c-eb06-4259-8ff2-e8cbce89d5a6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/AdminLTE-2.4.18/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R6eElFqJOF2OZbbLbjTCz3HoNc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/img/products" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/img/products" />
+      <recent name="$PROJECT_DIR$/views/modules" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/controllers" />
+      <recent name="$PROJECT_DIR$/views/img/users/default" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe413a2c-eb06-4259-8ff2-e8cbce89d5a6" name="Default Changelist" comment="" />
+      <created>1568991863920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568991863920</updated>
+      <workItem from="1568991865072" duration="2408000" />
+      <workItem from="1568994295995" duration="9090000" />
+      <workItem from="1569011399163" duration="575000" />
+      <workItem from="1569033634854" duration="483000" />
+      <workItem from="1569034121951" duration="35000" />
+      <workItem from="1569034161958" duration="292000" />
+      <workItem from="1569036227444" duration="81000" />
+      <workItem from="1569036364780" duration="63021000" />
+      <workItem from="1569147805228" duration="16622000" />
+      <workItem from="1569164781616" duration="1374000" />
+      <workItem from="1569166762192" duration="20090000" />
+      <workItem from="1569221496143" duration="411000" />
+      <workItem from="1569255727367" duration="21854000" />
+      <workItem from="1569314721022" duration="3667000" />
+      <workItem from="1569322103312" duration="30791000" />
+      <workItem from="1569389360970" duration="16279000" />
+      <workItem from="1569416097675" duration="4784000" />
+      <workItem from="1569427151230" duration="35000" />
+      <workItem from="1569427191651" duration="28486000" />
+      <workItem from="1569487033426" duration="21980000" />
+      <workItem from="1569602885847" duration="1271000" />
+      <workItem from="1569616690107" duration="9959000" />
+      <workItem from="1569650152629" duration="626000" />
+      <workItem from="1569691550152" duration="45168000" />
+      <workItem from="1569823161495" duration="82557000" />
+      <workItem from="1570523346458" duration="150120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/views/dist/js/products.js</url>
+          <line>213</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
